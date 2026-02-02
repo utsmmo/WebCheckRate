@@ -1,0 +1,7 @@
+node_modules
+.vite
+dist
+*.local
+.env
+*.db
+JoyON_Deploy.zip

@@ -1,0 +1,5 @@
+{
+  "name": "JoyON Hotel Rate Comparison",
+  "description": "A real-time hotel rate comparison dashboard for managing room prices across different distribution channels including OTA, Walk-in, and Corporate.",
+  "requestFramePermissions": []
+}
